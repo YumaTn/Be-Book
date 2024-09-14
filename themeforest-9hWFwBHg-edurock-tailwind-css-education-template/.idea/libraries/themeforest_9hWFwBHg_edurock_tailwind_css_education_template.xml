@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="themeforest-9hWFwBHg-edurock-tailwind-css-education-template">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/edurock-tailwind-development-version.zip!/" />
+      <root url="jar://$PROJECT_DIR$/edurock-tailwind-main-file.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
